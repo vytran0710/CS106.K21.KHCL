@@ -1,0 +1,13 @@
+C:\Users\Tran Vy\source\repos\PriestsAndDevils\bin\Debug\netcoreapp3.1\PriestsAndDevils.exe
+C:\Users\Tran Vy\source\repos\PriestsAndDevils\bin\Debug\netcoreapp3.1\PriestsAndDevils.deps.json
+C:\Users\Tran Vy\source\repos\PriestsAndDevils\bin\Debug\netcoreapp3.1\PriestsAndDevils.runtimeconfig.json
+C:\Users\Tran Vy\source\repos\PriestsAndDevils\bin\Debug\netcoreapp3.1\PriestsAndDevils.runtimeconfig.dev.json
+C:\Users\Tran Vy\source\repos\PriestsAndDevils\bin\Debug\netcoreapp3.1\PriestsAndDevils.dll
+C:\Users\Tran Vy\source\repos\PriestsAndDevils\bin\Debug\netcoreapp3.1\PriestsAndDevils.pdb
+C:\Users\Tran Vy\source\repos\PriestsAndDevils\obj\Debug\netcoreapp3.1\PriestsAndDevils.csprojAssemblyReference.cache
+C:\Users\Tran Vy\source\repos\PriestsAndDevils\obj\Debug\netcoreapp3.1\PriestsAndDevils.csproj.CoreCompileInputs.cache
+C:\Users\Tran Vy\source\repos\PriestsAndDevils\obj\Debug\netcoreapp3.1\PriestsAndDevils.AssemblyInfoInputs.cache
+C:\Users\Tran Vy\source\repos\PriestsAndDevils\obj\Debug\netcoreapp3.1\PriestsAndDevils.AssemblyInfo.cs
+C:\Users\Tran Vy\source\repos\PriestsAndDevils\obj\Debug\netcoreapp3.1\PriestsAndDevils.dll
+C:\Users\Tran Vy\source\repos\PriestsAndDevils\obj\Debug\netcoreapp3.1\PriestsAndDevils.pdb
+C:\Users\Tran Vy\source\repos\PriestsAndDevils\obj\Debug\netcoreapp3.1\PriestsAndDevils.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+1. Hàm minDistance(self,dist,queue):
+	-Trả về 1 đỉnh có khoảng cách ngắn nhất trong các đỉnh chưa được thêm vào cây đường đi ngắn nhất(shortest path tree)
+	- Khởi tạo giá trị min_value và min_index
+2. Hàm printPath(self,parent,j): Hàm in ra đường đi ngắn nhất từ Start tới đỉnh j
+3. Hàm printSolution(self, dist, parent,src,goal): In ra đường đi ngắn nhất từ  đỉnh Start tới  đỉnh Goal
+4. Hàm Dijkstra(self,graph,src,goal):Dùng thuật toán dijkstra để tìm đường đi ngắn nhất giữa các đỉnh
+	- Khởi tạo  mọi khoảng cách là vô cùng.
+	- Thêm các đỉnh vào queue.
+	- Tìm đường đi ngắn nhất cho tất cả các đỉnh
+	- Gọi hàm printSolution để đưa ra đường đi từ đỉnh Start tới đỉnh Goal
