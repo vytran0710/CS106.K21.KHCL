@@ -1,1 +1,1 @@
-# CS106 - Artificial Intelligent
+# CS106 - Artificial Intelligence
