@@ -1,5 +1,5 @@
 # CS106 - Artificial Intelligence
-- **Content**
+- **Contents:**
   - BFS
   - DFS
   - Dijkstra
